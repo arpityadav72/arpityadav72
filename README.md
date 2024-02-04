@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" /></a> </p>
 
-- 🌱 I’m currently learning **Backend development.**
+- 🌱 I’m currently learning **Full Stack development.**
 
 - 📫 How to reach me **aheerarpit6102002@gmail.com**
 
